@@ -1,0 +1,36 @@
+[33mcommit 9421eaf6fd6575d2692d7688e06d771f3494f7fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8144564 33ef246
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 18:56:28 2025 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 8144564b0b5a731dc4903c139d6b2a3379e7936a[m
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 18:50:55 2025 -0500
+
+    E: Content changes
+
+[33mcommit 33ef246307365d1fe6f3b0bc0f99e9fe0d36d53d[m
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 18:39:28 2025 -0500
+
+    D: added classics
+
+[33mcommit 2a6e426953e9cd644ee79dce5310bed11a2b26a1[m
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 17:38:07 2025 -0500
+
+    C: added quotes
+
+[33mcommit 359e1864a13b7248719bb643b1f99e9d0ca027e8[m
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 17:09:00 2025 -0500
+
+    B: titles.md changes
+
+[33mcommit a6d79012f1464c0e9e8eb8d6f63ef065bd3d5e4b[m
+Author: Solarin-the-Great <cavanaughmt@gmail.com>
+Date:   Tue Jul 15 16:12:09 2025 -0500
+
+    A: add contents.md
